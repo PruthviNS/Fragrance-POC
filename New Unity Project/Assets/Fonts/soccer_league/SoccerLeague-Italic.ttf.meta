@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ca60c0b44de4c554a98191e6676cf994
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Soccer League
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 63a252cd18d78a844b45a00d7cafc55f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
